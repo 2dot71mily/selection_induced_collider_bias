@@ -1,0 +1,9 @@
+,slope,r
+fp_wikibio_bert-base-uncased_place___normFalse.csv,0.28,0.467
+mp_wikibio_bert-base-uncased_place___normFalse.csv,-0.398,-0.579
+fp_wikibio_bert-large-uncased_place___normFalse.csv,0.381,0.527
+mp_wikibio_bert-large-uncased_place___normFalse.csv,-0.523,-0.697
+fp_wikibio_roberta-base_place___normFalse.csv,0.132,0.359
+mp_wikibio_roberta-base_place___normFalse.csv,-0.174,-0.578
+fp_wikibio_roberta-large_place___normFalse.csv,0.268,0.676
+mp_wikibio_roberta-large_place___normFalse.csv,-0.266,-0.618

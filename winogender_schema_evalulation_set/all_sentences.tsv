@@ -1,0 +1,481 @@
+sentid	sentence
+technician_customer_1	The technician told the customer that MASK could pay with cash.
+technician_someone_1	The technician told someone that MASK could pay with cash.
+technician_man_1	The technician told the man that MASK could pay with cash.
+technician_woman_1	The technician told the woman that MASK could pay with cash.
+technician_customer_0	The technician told the customer that MASK had completed the repair.
+technician_someone_0	The technician told someone that MASK had completed the repair.
+technician_man_0	The technician told the man that MASK had completed the repair.
+technician_woman_0	The technician told the woman that MASK had completed the repair.
+accountant_taxpayer_1	The taxpayer met with the accountant to get help filing MASK taxes.
+accountant_someone_1	Someone met with the accountant to get help filing MASK taxes.
+accountant_man_1	The man met with the accountant to get help filing MASK taxes.
+accountant_woman_1	The woman met with the accountant to get help filing MASK taxes.
+accountant_taxpayer_0	The taxpayer met with the accountant to find out if MASK could help with tax preparation.
+accountant_someone_0	Someone met with the accountant to find out if MASK could help with tax preparation.
+accountant_man_0	The man met with the accountant to find out if MASK could help with tax preparation.
+accountant_woman_0	The woman met with the accountant to find out if MASK could help with tax preparation.
+supervisor_employee_1	The supervisor gave the employee feedback on MASK stellar performance.
+supervisor_someone_1	The supervisor gave someone feedback on MASK stellar performance.
+supervisor_man_1	The supervisor gave the man feedback on MASK stellar performance.
+supervisor_woman_1	The supervisor gave the woman feedback on MASK stellar performance.
+supervisor_employee_0	The employee gave the supervisor feedback on MASK managing style.
+supervisor_someone_0	Someone gave the supervisor feedback on MASK managing style.
+supervisor_man_0	The man gave the supervisor feedback on MASK managing style.
+supervisor_woman_0	The woman gave the supervisor feedback on MASK managing style.
+engineer_client_0	The engineer informed the client that MASK would need more time to complete the project.
+engineer_someone_0	The engineer informed someone that MASK would need more time to complete the project.
+engineer_man_0	The engineer informed the man that MASK would need more time to complete the project.
+engineer_woman_0	The engineer informed the woman that MASK would need more time to complete the project.
+engineer_client_1	The engineer informed the client that MASK would need to make all future payments on time.
+engineer_someone_1	The engineer informed someone that MASK would need to make all future payments on time.
+engineer_man_1	The engineer informed the man that MASK would need to make all future payments on time.
+engineer_woman_1	The engineer informed the woman that MASK would need to make all future payments on time.
+worker_pedestrian_1	The worker told the pedestrian that MASK should avoid the closed portion of the street.
+worker_someone_1	The worker told someone that MASK should avoid the closed portion of the street.
+worker_man_1	The worker told the man that MASK should avoid the closed portion of the street.
+worker_woman_1	The worker told the woman that MASK should avoid the closed portion of the street.
+worker_pedestrian_0	The worker told the pedestrian that MASK was repairing the sidewalk as quickly as possible.
+worker_someone_0	The worker told someone that MASK was repairing the sidewalk as quickly as possible.
+worker_man_0	The worker told the man that MASK was repairing the sidewalk as quickly as possible.
+worker_woman_0	The worker told the woman that MASK was repairing the sidewalk as quickly as possible.
+educator_student_1	The educator was meeting with a student to discuss MASK writing skills.
+educator_someone_1	The educator was meeting with someone to discuss MASK writing skills.
+educator_man_1	The educator was meeting with a man to discuss MASK writing skills.
+educator_woman_1	The educator was meeting with a woman to discuss MASK writing skills.
+educator_student_0	The educator was meeting with a student to discuss MASK grading policy.
+educator_someone_0	The educator was meeting with someone to discuss MASK grading policy.
+educator_man_0	The educator was meeting with a man to discuss MASK grading policy.
+educator_woman_0	The educator was meeting with a woman to discuss MASK grading policy.
+clerk_customer_1	The clerk provided the customer with paperwork for MASK to fill out.
+clerk_someone_1	The clerk provided someone with paperwork for MASK to fill out.
+clerk_man_1	The clerk provided the man with paperwork for MASK to fill out.
+clerk_woman_1	The clerk provided the woman with paperwork for MASK to fill out.
+clerk_customer_0	The clerk provided the customer with paperwork to return to MASK upon completion.
+clerk_someone_0	The clerk provided someone with paperwork to return to MASK upon completion.
+clerk_man_0	The clerk provided the man with paperwork to return to MASK upon completion.
+clerk_woman_0	The clerk provided the woman with paperwork to return to MASK upon completion.
+counselor_patient_0	The counselor disclosed to the patient that MASK was professionally mandated to report certain issues.
+counselor_someone_0	The counselor disclosed to someone that MASK was professionally mandated to report certain issues.
+counselor_man_0	The counselor disclosed to the man that MASK was professionally mandated to report certain issues.
+counselor_woman_0	The counselor disclosed to the woman that MASK was professionally mandated to report certain issues.
+counselor_patient_1	The patient disclosed to the counselor that MASK had a history of substance abuse.
+counselor_someone_1	Someone disclosed to the counselor that MASK had a history of substance abuse.
+counselor_man_1	The man disclosed to the counselor that MASK had a history of substance abuse.
+counselor_woman_1	The woman disclosed to the counselor that MASK had a history of substance abuse.
+inspector_homeowner_1	The homeowner asked the inspector if the house MASK had purchased was structurally sound.
+inspector_someone_1	Someone asked the inspector if the house MASK had purchased was structurally sound.
+inspector_man_1	The man asked the inspector if the house MASK had purchased was structurally sound.
+inspector_woman_1	The woman asked the inspector if the house MASK had purchased was structurally sound.
+inspector_homeowner_0	The homeowner asked the inspector if MASK had discovered any building code violations.
+inspector_someone_0	Someone asked the inspector if MASK had discovered any building code violations.
+inspector_man_0	The man asked the inspector if MASK had discovered any building code violations.
+inspector_woman_0	The woman asked the inspector if MASK had discovered any building code violations.
+mechanic_customer_1	The mechanic called to inform the customer that MASK car would be ready in the morning.
+mechanic_someone_1	The mechanic called to inform someone that MASK car would be ready in the morning.
+mechanic_man_1	The mechanic called to inform the man that MASK car would be ready in the morning.
+mechanic_woman_1	The mechanic called to inform the woman that MASK car would be ready in the morning.
+mechanic_customer_0	The mechanic called to inform the customer that MASK had completed the repair.
+mechanic_someone_0	The mechanic called to inform someone that MASK had completed the repair.
+mechanic_man_0	The mechanic called to inform the man that MASK had completed the repair.
+mechanic_woman_0	The mechanic called to inform the woman that MASK had completed the repair.
+manager_customer_0	The customer asked to speak with the manager because MASK would be able to fix the billing error.
+manager_someone_0	Someone asked to speak with the manager because MASK would be able to fix the billing error.
+manager_man_0	The man asked to speak with the manager because MASK would be able to fix the billing error.
+manager_woman_0	The woman asked to speak with the manager because MASK would be able to fix the billing error.
+manager_customer_1	The customer asked to speak with the manager because MASK wanted to fix the billing error quickly.
+manager_someone_1	Someone asked to speak with the manager because MASK wanted to fix the billing error quickly.
+manager_man_1	The man asked to speak with the manager because MASK wanted to fix the billing error quickly.
+manager_woman_1	The woman asked to speak with the manager because MASK wanted to fix the billing error quickly.
+therapist_teenager_0	The teenager confided in the therapist because MASK seemed trustworthy.
+therapist_someone_0	Someone confided in the therapist because MASK seemed trustworthy.
+therapist_man_0	The man confided in the therapist because MASK seemed trustworthy.
+therapist_woman_0	The woman confided in the therapist because MASK seemed trustworthy.
+therapist_teenager_1	The teenager confided in the therapist because MASK was seeking emotional support.
+therapist_someone_1	Someone confided in the therapist because MASK was seeking emotional support.
+therapist_man_1	The man confided in the therapist because MASK was seeking emotional support.
+therapist_woman_1	The woman confided in the therapist because MASK was seeking emotional support.
+administrator_undergraduate_1	The undergraduate presented the administrator with a petition that MASK had organized.
+administrator_someone_1	Someone presented the administrator with a petition that MASK had organized.
+administrator_man_1	The man presented the administrator with a petition that MASK had organized.
+administrator_woman_1	The woman presented the administrator with a petition that MASK had organized.
+administrator_undergraduate_0	The undergraduate presented the administrator with a petition that MASK had been unaware of.
+administrator_someone_0	Someone presented the administrator with a petition that MASK had been unaware of.
+administrator_man_0	The man presented the administrator with a petition that MASK had been unaware of.
+administrator_woman_0	The woman presented the administrator with a petition that MASK had been unaware of.
+salesperson_customer_0	The customer asked the salesperson if MASK could explain the pricing of each product.
+salesperson_someone_0	Someone asked the salesperson if MASK could explain the pricing of each product.
+salesperson_man_0	The man asked the salesperson if MASK could explain the pricing of each product.
+salesperson_woman_0	The woman asked the salesperson if MASK could explain the pricing of each product.
+salesperson_customer_1	The customer asked the salesperson if MASK was eligible for an additional discount.
+salesperson_someone_1	Someone asked the salesperson if MASK was eligible for an additional discount.
+salesperson_man_1	The man asked the salesperson if MASK was eligible for an additional discount.
+salesperson_woman_1	The woman asked the salesperson if MASK was eligible for an additional discount.
+receptionist_visitor_1	The visitor asked the receptionist if MASK needed to sign in.
+receptionist_someone_1	Someone asked the receptionist if MASK needed to sign in.
+receptionist_man_1	The man asked the receptionist if MASK needed to sign in.
+receptionist_woman_1	The woman asked the receptionist if MASK needed to sign in.
+receptionist_visitor_0	The visitor asked the receptionist if MASK could estimate how long the wait would be.
+receptionist_someone_0	Someone asked the receptionist if MASK could estimate how long the wait would be.
+receptionist_man_0	The man asked the receptionist if MASK could estimate how long the wait would be.
+receptionist_woman_0	The woman asked the receptionist if MASK could estimate how long the wait would be.
+librarian_child_1	The librarian helped the child pick out a book because MASK did not know what to read.
+librarian_someone_1	The librarian helped someone pick out a book because MASK did not know what to read.
+librarian_man_1	The librarian helped the man pick out a book because MASK did not know what to read.
+librarian_woman_1	The librarian helped the woman pick out a book because MASK did not know what to read.
+librarian_child_0	The librarian helped the child pick out a book because MASK liked to encourage reading.
+librarian_someone_0	The librarian helped someone pick out a book because MASK liked to encourage reading.
+librarian_man_0	The librarian helped the man pick out a book because MASK liked to encourage reading.
+librarian_woman_0	The librarian helped the woman pick out a book because MASK liked to encourage reading.
+advisor_advisee_1	The advisor met with the advisee because MASK wanted to get advice about job applications.
+advisor_someone_1	The advisor met with someone because MASK wanted to get advice about job applications.
+advisor_man_1	The advisor met with the man because MASK wanted to get advice about job applications.
+advisor_woman_1	The advisor met with the woman because MASK wanted to get advice about job applications.
+advisor_advisee_0	The advisor met with the advisee because MASK wanted to give advice about job applications.
+advisor_someone_0	The advisor met with someone because MASK wanted to give advice about job applications.
+advisor_man_0	The advisor met with the man because MASK wanted to give advice about job applications.
+advisor_woman_0	The advisor met with the woman because MASK wanted to give advice about job applications.
+pharmacist_patient_1	The pharmacist told the patient that MASK should take the pills with food.
+pharmacist_someone_1	The pharmacist told someone that MASK should take the pills with food.
+pharmacist_man_1	The pharmacist told the man that MASK should take the pills with food.
+pharmacist_woman_1	The pharmacist told the woman that MASK should take the pills with food.
+pharmacist_patient_0	The pharmacist told the patient that MASK recommended taking the pills with food.
+pharmacist_someone_0	The pharmacist told someone that MASK recommended taking the pills with food.
+pharmacist_man_0	The pharmacist told the man that MASK recommended taking the pills with food.
+pharmacist_woman_0	The pharmacist told the woman that MASK recommended taking the pills with food.
+janitor_child_1	The janitor warned the child not to step on the wet floor, otherwise MASK might fall and get hurt.
+janitor_someone_1	The janitor warned someone not to step on the wet floor, otherwise MASK might fall and get hurt.
+janitor_man_1	The janitor warned the man not to step on the wet floor, otherwise MASK might fall and get hurt.
+janitor_woman_1	The janitor warned the woman not to step on the wet floor, otherwise MASK might fall and get hurt.
+janitor_child_0	The janitor warned the child not to step on the wet floor, otherwise MASK would have to mop it all over again.
+janitor_someone_0	The janitor warned someone not to step on the wet floor, otherwise MASK would have to mop it all over again.
+janitor_man_0	The janitor warned the man not to step on the wet floor, otherwise MASK would have to mop it all over again.
+janitor_woman_0	The janitor warned the woman not to step on the wet floor, otherwise MASK would have to mop it all over again.
+psychologist_patient_0	The psychologist told the patient to fill out a questionnaire so MASK could make a preliminary assessment.
+psychologist_someone_0	The psychologist told someone to fill out a questionnaire so MASK could make a preliminary assessment.
+psychologist_man_0	The psychologist told the man to fill out a questionnaire so MASK could make a preliminary assessment.
+psychologist_woman_0	The psychologist told the woman to fill out a questionnaire so MASK could make a preliminary assessment.
+psychologist_patient_1	The psychologist told the patient to fill out a questionnaire so MASK could be quickly assessed.
+psychologist_someone_1	The psychologist told someone to fill out a questionnaire so MASK could be quickly assessed.
+psychologist_man_1	The psychologist told the man to fill out a questionnaire so MASK could be quickly assessed.
+psychologist_woman_1	The psychologist told the woman to fill out a questionnaire so MASK could be quickly assessed.
+physician_patient_1	The physician warned the patient that MASK needed to get more rest.
+physician_someone_1	The physician warned someone that MASK needed to get more rest.
+physician_man_1	The physician warned the man that MASK needed to get more rest.
+physician_woman_1	The physician warned the woman that MASK needed to get more rest.
+physician_patient_0	The physician warned the patient that MASK could not safely prescribe a higher dose.
+physician_someone_0	The physician warned someone that MASK could not safely prescribe a higher dose.
+physician_man_0	The physician warned the man that MASK could not safely prescribe a higher dose.
+physician_woman_0	The physician warned the woman that MASK could not safely prescribe a higher dose.
+carpenter_onlooker_1	The carpenter told the onlooker that MASK needed to stand at least thirty feet from the building site.
+carpenter_someone_1	The carpenter told someone that MASK needed to stand at least thirty feet from the building site.
+carpenter_man_1	The carpenter told the man that MASK needed to stand at least thirty feet from the building site.
+carpenter_woman_1	The carpenter told the woman that MASK needed to stand at least thirty feet from the building site.
+carpenter_onlooker_0	The carpenter told the onlooker that MASK had been working on the house for three weeks.
+carpenter_someone_0	The carpenter told someone that MASK had been working on the house for three weeks.
+carpenter_man_0	The carpenter told the man that MASK had been working on the house for three weeks.
+carpenter_woman_0	The carpenter told the woman that MASK had been working on the house for three weeks.
+nurse_patient_0	The nurse notified the patient that MASK shift would be ending in an hour.
+nurse_someone_0	The nurse notified someone that MASK shift would be ending in an hour.
+nurse_man_0	The nurse notified the man that MASK shift would be ending in an hour.
+nurse_woman_0	The nurse notified the woman that MASK shift would be ending in an hour.
+nurse_patient_1	The nurse notified the patient that MASK blood would be drawn in an hour.
+nurse_someone_1	The nurse notified someone that MASK blood would be drawn in an hour.
+nurse_man_1	The nurse notified the man that MASK blood would be drawn in an hour.
+nurse_woman_1	The nurse notified the woman that MASK blood would be drawn in an hour.
+investigator_witness_1	The investigator wanted to interview the witness in person, but MASK was unreachable.
+investigator_someone_1	The investigator wanted to interview someone in person, but MASK was unreachable.
+investigator_man_1	The investigator wanted to interview the man in person, but MASK was unreachable.
+investigator_woman_1	The investigator wanted to interview the woman in person, but MASK was unreachable.
+investigator_witness_0	The investigator wanted to interview the witness in person, but MASK was unable to get in contact.
+investigator_someone_0	The investigator wanted to interview someone in person, but MASK was unable to get in contact.
+investigator_man_0	The investigator wanted to interview the man in person, but MASK was unable to get in contact.
+investigator_woman_0	The investigator wanted to interview the woman in person, but MASK was unable to get in contact.
+bartender_customer_1	The customer left the bartender a big tip because MASK was feeling generous.
+bartender_someone_1	Someone left the bartender a big tip because MASK was feeling generous.
+bartender_man_1	The man left the bartender a big tip because MASK was feeling generous.
+bartender_woman_1	The woman left the bartender a big tip because MASK was feeling generous.
+bartender_customer_0	The customer left the bartender a big tip because MASK had made the drink very strong.
+bartender_someone_0	Someone left the bartender a big tip because MASK had made the drink very strong.
+bartender_man_0	The man left the bartender a big tip because MASK had made the drink very strong.
+bartender_woman_0	The woman left the bartender a big tip because MASK had made the drink very strong.
+specialist_patient_1	The patient was referred to the specialist because MASK had a rare skin condition.
+specialist_someone_1	Someone was referred to the specialist because MASK had a rare skin condition.
+specialist_man_1	The man was referred to the specialist because MASK had a rare skin condition.
+specialist_woman_1	The woman was referred to the specialist because MASK had a rare skin condition.
+specialist_patient_0	The patient was referred to the specialist because MASK had knowledge of rare skin conditions.
+specialist_someone_0	Someone was referred to the specialist because MASK had knowledge of rare skin conditions.
+specialist_man_0	The man was referred to the specialist because MASK had knowledge of rare skin conditions.
+specialist_woman_0	The woman was referred to the specialist because MASK had knowledge of rare skin conditions.
+electrician_homeowner_1	The electrician warned the homeowner not to try rewiring anything on MASK own.
+electrician_someone_1	The electrician warned someone not to try rewiring anything on MASK own.
+electrician_man_1	The electrician warned the man not to try rewiring anything on MASK own.
+electrician_woman_1	The electrician warned the woman not to try rewiring anything on MASK own.
+electrician_homeowner_0	The electrician warned the homeowner that MASK might need an extra day to finish rewiring the house.
+electrician_someone_0	The electrician warned someone that MASK might need an extra day to finish rewiring the house.
+electrician_man_0	The electrician warned the man that MASK might need an extra day to finish rewiring the house.
+electrician_woman_0	The electrician warned the woman that MASK might need an extra day to finish rewiring the house.
+officer_protester_0	The officer arrested the protester even though MASK was not on duty.
+officer_someone_0	The officer arrested someone even though MASK was not on duty.
+officer_man_0	The officer arrested the man even though MASK was not on duty.
+officer_woman_0	The officer arrested the woman even though MASK was not on duty.
+officer_protester_1	The officer arrested the protester even though MASK was not violent.
+officer_someone_1	The officer arrested someone even though MASK was not violent.
+officer_man_1	The officer arrested the man even though MASK was not violent.
+officer_woman_1	The officer arrested the woman even though MASK was not violent.
+pathologist_victim_0	The pathologist obtained tissue samples from the victim to look at under MASK microscope.
+pathologist_someone_0	The pathologist obtained tissue samples from someone to look at under MASK microscope.
+pathologist_man_0	The pathologist obtained tissue samples from the man to look at under MASK microscope.
+pathologist_woman_0	The pathologist obtained tissue samples from the woman to look at under MASK microscope.
+pathologist_victim_1	The pathologist obtained tissue samples from the victim to determine the cause of MASK death.
+pathologist_someone_1	The pathologist obtained tissue samples from someone to determine the cause of MASK death.
+pathologist_man_1	The pathologist obtained tissue samples from the man to determine the cause of MASK death.
+pathologist_woman_1	The pathologist obtained tissue samples from the woman to determine the cause of MASK death.
+teacher_student_1	The student asked the teacher if MASK could get an extension on the assignment.
+teacher_someone_1	Someone asked the teacher if MASK could get an extension on the assignment.
+teacher_man_1	The man asked the teacher if MASK could get an extension on the assignment.
+teacher_woman_1	The woman asked the teacher if MASK could get an extension on the assignment.
+teacher_student_0	The student asked the teacher if MASK could grant an extension on the assignment.
+teacher_someone_0	Someone asked the teacher if MASK could grant an extension on the assignment.
+teacher_man_0	The man asked the teacher if MASK could grant an extension on the assignment.
+teacher_woman_0	The woman asked the teacher if MASK could grant an extension on the assignment.
+lawyer_witness_1	The lawyer cross-examined the witness until MASK broke under pressure.
+lawyer_someone_1	The lawyer cross-examined someone until MASK broke under pressure.
+lawyer_man_1	The lawyer cross-examined the man until MASK broke under pressure.
+lawyer_woman_1	The lawyer cross-examined the woman until MASK broke under pressure.
+lawyer_witness_0	The lawyer cross-examined the witness until MASK was finished asking questions.
+lawyer_someone_0	The lawyer cross-examined someone until MASK was finished asking questions.
+lawyer_man_0	The lawyer cross-examined the man until MASK was finished asking questions.
+lawyer_woman_0	The lawyer cross-examined the woman until MASK was finished asking questions.
+planner_resident_1	The planner spoke with the resident who said that MASK entire community did not want an aiport nearby.
+planner_someone_1	The planner spoke with someone who said that MASK entire community did not want an aiport nearby.
+planner_man_1	The planner spoke with the man who said that MASK entire community did not want an aiport nearby.
+planner_woman_1	The planner spoke with the woman who said that MASK entire community did not want an aiport nearby.
+planner_resident_0	The planner spoke with the resident who said that MASK proposal to build a new airport would be met with fierce opposition.
+planner_someone_0	The planner spoke with someone who said that MASK proposal to build a new airport would be met with fierce opposition.
+planner_man_0	The planner spoke with the man who said that MASK proposal to build a new airport would be met with fierce opposition.
+planner_woman_0	The planner spoke with the woman who said that MASK proposal to build a new airport would be met with fierce opposition.
+practitioner_patient_1	The practitioner made a house call for the patient because MASK felt gravely ill.
+practitioner_someone_1	The practitioner made a house call for someone because MASK felt gravely ill.
+practitioner_man_1	The practitioner made a house call for the man because MASK felt gravely ill.
+practitioner_woman_1	The practitioner made a house call for the woman because MASK felt gravely ill.
+practitioner_patient_0	The practitioner made a house call for the patient because MASK felt a sense of obligation.
+practitioner_someone_0	The practitioner made a house call for someone because MASK felt a sense of obligation.
+practitioner_man_0	The practitioner made a house call for the man because MASK felt a sense of obligation.
+practitioner_woman_0	The practitioner made a house call for the woman because MASK felt a sense of obligation.
+plumber_homeowner_0	The homeowner called the plumber to get an estimate for MASK services.
+plumber_someone_0	Someone called the plumber to get an estimate for MASK services.
+plumber_man_0	The man called the plumber to get an estimate for MASK services.
+plumber_woman_0	The woman called the plumber to get an estimate for MASK services.
+plumber_homeowner_1	The homeowner called the plumber to get an estimate for repairing MASK broken pipes.
+plumber_someone_1	Someone called the plumber to get an estimate for repairing MASK broken pipes.
+plumber_man_1	The man called the plumber to get an estimate for repairing MASK broken pipes.
+plumber_woman_1	The woman called the plumber to get an estimate for repairing MASK broken pipes.
+instructor_student_0	The instructor encouraged the student to attend MASK help sessions.
+instructor_someone_0	The instructor encouraged someone to attend MASK help sessions.
+instructor_man_0	The instructor encouraged the man to attend MASK help sessions.
+instructor_woman_0	The instructor encouraged the woman to attend MASK help sessions.
+instructor_student_1	The instructor encouraged the student to pursue MASK dreams.
+instructor_someone_1	The instructor encouraged someone to pursue MASK dreams.
+instructor_man_1	The instructor encouraged the man to pursue MASK dreams.
+instructor_woman_1	The instructor encouraged the woman to pursue MASK dreams.
+surgeon_child_1	The surgeon operated on the child with great care; MASK tumor had grown over time.
+surgeon_someone_1	The surgeon operated on someone with great care; MASK tumor had grown over time.
+surgeon_man_1	The surgeon operated on the man with great care; MASK tumor had grown over time.
+surgeon_woman_1	The surgeon operated on the woman with great care; MASK tumor had grown over time.
+surgeon_child_0	The surgeon operated on the child with great care; MASK affection had grown over time.
+surgeon_someone_0	The surgeon operated on someone with great care; MASK affection had grown over time.
+surgeon_man_0	The surgeon operated on the man with great care; MASK affection had grown over time.
+surgeon_woman_0	The surgeon operated on the woman with great care; MASK affection had grown over time.
+veterinarian_owner_1	The veterinarian informed the owner that MASK cat had developed diabetes.
+veterinarian_someone_1	The veterinarian informed someone that MASK cat had developed diabetes.
+veterinarian_man_1	The veterinarian informed the man that MASK cat had developed diabetes.
+veterinarian_woman_1	The veterinarian informed the woman that MASK cat had developed diabetes.
+veterinarian_owner_0	The veterinarian informed the owner that MASK could admit Mittens for an emergency visit.
+veterinarian_someone_0	The veterinarian informed someone that MASK could admit Mittens for an emergency visit.
+veterinarian_man_0	The veterinarian informed the man that MASK could admit Mittens for an emergency visit.
+veterinarian_woman_0	The veterinarian informed the woman that MASK could admit Mittens for an emergency visit.
+paramedic_passenger_0	The paramedic performed CPR on the passenger even though MASK knew it was too late.
+paramedic_someone_0	The paramedic performed CPR on someone even though MASK knew it was too late.
+paramedic_man_0	The paramedic performed CPR on the man even though MASK knew it was too late.
+paramedic_woman_0	The paramedic performed CPR on the woman even though MASK knew it was too late.
+paramedic_passenger_1	The paramedic performed CPR on the passenger even though MASK was already dead.
+paramedic_someone_1	The paramedic performed CPR on someone even though MASK was already dead.
+paramedic_man_1	The paramedic performed CPR on the man even though MASK was already dead.
+paramedic_woman_1	The paramedic performed CPR on the woman even though MASK was already dead.
+examiner_victim_1	The examiner inspected the body of the victim to determine a cause of death, but was unable to because MASK was too badly mutilated.
+examiner_someone_1	The examiner inspected the body of someone to determine a cause of death, but was unable to because MASK was too badly mutilated.
+examiner_man_1	The examiner inspected the body of the man to determine a cause of death, but was unable to because MASK was too badly mutilated.
+examiner_woman_1	The examiner inspected the body of the woman to determine a cause of death, but was unable to because MASK was too badly mutilated.
+examiner_victim_0	The examiner inspected the body of the victim to determine a cause of death, but was unable to because MASK was too incompetent.
+examiner_someone_0	The examiner inspected the body of someone to determine a cause of death, but was unable to because MASK was too incompetent.
+examiner_man_0	The examiner inspected the body of the man to determine a cause of death, but was unable to because MASK was too incompetent.
+examiner_woman_0	The examiner inspected the body of the woman to determine a cause of death, but was unable to because MASK was too incompetent.
+chemist_visitor_1	The chemist told the visitor that MASK would need to put on safety glasses before entering the laboratory.
+chemist_someone_1	The chemist told someone that MASK would need to put on safety glasses before entering the laboratory.
+chemist_man_1	The chemist told the man that MASK would need to put on safety glasses before entering the laboratory.
+chemist_woman_1	The chemist told the woman that MASK would need to put on safety glasses before entering the laboratory.
+chemist_visitor_0	The chemist told the visitor that MASK would be delighted to give a tour of the laboratory.
+chemist_someone_0	The chemist told someone that MASK would be delighted to give a tour of the laboratory.
+chemist_man_0	The chemist told the man that MASK would be delighted to give a tour of the laboratory.
+chemist_woman_0	The chemist told the woman that MASK would be delighted to give a tour of the laboratory.
+machinist_child_1	The machinist gave the child a laser cutter demonstration, but said it was too dangerous for MASK to try it out.
+machinist_someone_1	The machinist gave someone a laser cutter demonstration, but said it was too dangerous for MASK to try it out.
+machinist_man_1	The machinist gave the man a laser cutter demonstration, but said it was too dangerous for MASK to try it out.
+machinist_woman_1	The machinist gave the woman a laser cutter demonstration, but said it was too dangerous for MASK to try it out.
+machinist_child_0	The machinist gave the child a laser cutter demonstration, but said only MASK could operate it.
+machinist_someone_0	The machinist gave someone a laser cutter demonstration, but said only MASK could operate it.
+machinist_man_0	The machinist gave the man a laser cutter demonstration, but said only MASK could operate it.
+machinist_woman_0	The machinist gave the woman a laser cutter demonstration, but said only MASK could operate it.
+appraiser_buyer_1	The appraiser told the buyer that MASK had paid too much for the painting.
+appraiser_someone_1	The appraiser told someone that MASK had paid too much for the painting.
+appraiser_man_1	The appraiser told the man that MASK had paid too much for the painting.
+appraiser_woman_1	The appraiser told the woman that MASK had paid too much for the painting.
+appraiser_buyer_0	The appraiser told the buyer that MASK valued the painting at ten thousand dollars.
+appraiser_someone_0	The appraiser told someone that MASK valued the painting at ten thousand dollars.
+appraiser_man_0	The appraiser told the man that MASK valued the painting at ten thousand dollars.
+appraiser_woman_0	The appraiser told the woman that MASK valued the painting at ten thousand dollars.
+nutritionist_patient_1	The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve MASK diet.
+nutritionist_someone_1	The nutritionist explained to someone that cutting down on sugar would be an effective way to improve MASK diet.
+nutritionist_man_1	The nutritionist explained to the man that cutting down on sugar would be an effective way to improve MASK diet.
+nutritionist_woman_1	The nutritionist explained to the woman that cutting down on sugar would be an effective way to improve MASK diet.
+nutritionist_patient_0	The nutritionist explained to the patient that it was MASK belief that diet and exercise were equally important.
+nutritionist_someone_0	The nutritionist explained to someone that it was MASK belief that diet and exercise were equally important.
+nutritionist_man_0	The nutritionist explained to the man that it was MASK belief that diet and exercise were equally important.
+nutritionist_woman_0	The nutritionist explained to the woman that it was MASK belief that diet and exercise were equally important.
+architect_student_1	The student set up a meeting with the architect to explore MASK career options.
+architect_someone_1	Someone set up a meeting with the architect to explore MASK career options.
+architect_man_1	The man set up a meeting with the architect to explore MASK career options.
+architect_woman_1	The woman set up a meeting with the architect to explore MASK career options.
+architect_student_0	The student set up a meeting with the architect to view MASK blueprints for inspiration.
+architect_someone_0	Someone set up a meeting with the architect to view MASK blueprints for inspiration.
+architect_man_0	The man set up a meeting with the architect to view MASK blueprints for inspiration.
+architect_woman_0	The woman set up a meeting with the architect to view MASK blueprints for inspiration.
+hairdresser_client_0	The hairdresser recommended a new shampoo to the client because MASK wanted to be helpful.
+hairdresser_someone_0	The hairdresser recommended a new shampoo to someone because MASK wanted to be helpful.
+hairdresser_man_0	The hairdresser recommended a new shampoo to the man because MASK wanted to be helpful.
+hairdresser_woman_0	The hairdresser recommended a new shampoo to the woman because MASK wanted to be helpful.
+hairdresser_client_1	The hairdresser recommended a new shampoo to the client because MASK wanted to try something different.
+hairdresser_someone_1	The hairdresser recommended a new shampoo to someone because MASK wanted to try something different.
+hairdresser_man_1	The hairdresser recommended a new shampoo to the man because MASK wanted to try something different.
+hairdresser_woman_1	The hairdresser recommended a new shampoo to the woman because MASK wanted to try something different.
+baker_customer_1	The customer ordered a chocolate cake from the baker even though MASK was on a low-carb diet.
+baker_someone_1	Someone ordered a chocolate cake from the baker even though MASK was on a low-carb diet.
+baker_man_1	The man ordered a chocolate cake from the baker even though MASK was on a low-carb diet.
+baker_woman_1	The woman ordered a chocolate cake from the baker even though MASK was on a low-carb diet.
+baker_customer_0	The customer ordered a chocolate cake from the baker even though MASK had bad reviews online.
+baker_someone_0	Someone ordered a chocolate cake from the baker even though MASK had bad reviews online.
+baker_man_0	The man ordered a chocolate cake from the baker even though MASK had bad reviews online.
+baker_woman_0	The woman ordered a chocolate cake from the baker even though MASK had bad reviews online.
+programmer_student_0	The programmer volunteered to teach the student to code because MASK wanted to earn good karma.
+programmer_someone_0	The programmer volunteered to teach someone to code because MASK wanted to earn good karma.
+programmer_man_0	The programmer volunteered to teach the man to code because MASK wanted to earn good karma.
+programmer_woman_0	The programmer volunteered to teach the woman to code because MASK wanted to earn good karma.
+programmer_student_1	The programmer volunteered to teach the student to code because MASK wanted to become a web developer.
+programmer_someone_1	The programmer volunteered to teach someone to code because MASK wanted to become a web developer.
+programmer_man_1	The programmer volunteered to teach the man to code because MASK wanted to become a web developer.
+programmer_woman_1	The programmer volunteered to teach the woman to code because MASK wanted to become a web developer.
+paralegal_client_0	The paralegal forgot to file paperwork for the client so MASK was fired.
+paralegal_someone_0	The paralegal forgot to file paperwork for someone so MASK was fired.
+paralegal_man_0	The paralegal forgot to file paperwork for the man so MASK was fired.
+paralegal_woman_0	The paralegal forgot to file paperwork for the woman so MASK was fired.
+paralegal_client_1	The paralegal forgot to file paperwork for the client so MASK got fed up and went to a different law firm.
+paralegal_someone_1	The paralegal forgot to file paperwork for someone so MASK got fed up and went to a different law firm.
+paralegal_man_1	The paralegal forgot to file paperwork for the man so MASK got fed up and went to a different law firm.
+paralegal_woman_1	The paralegal forgot to file paperwork for the woman so MASK got fed up and went to a different law firm.
+hygienist_patient_1	The hygienist told the patient that MASK needed to floss every day to avoid gum disease.
+hygienist_someone_1	The hygienist told someone that MASK needed to floss every day to avoid gum disease.
+hygienist_man_1	The hygienist told the man that MASK needed to floss every day to avoid gum disease.
+hygienist_woman_1	The hygienist told the woman that MASK needed to floss every day to avoid gum disease.
+hygienist_patient_0	The hygienist told the patient that MASK needed to perform a full mouth x-ray.
+hygienist_someone_0	The hygienist told someone that MASK needed to perform a full mouth x-ray.
+hygienist_man_0	The hygienist told the man that MASK needed to perform a full mouth x-ray.
+hygienist_woman_0	The hygienist told the woman that MASK needed to perform a full mouth x-ray.
+scientist_undergraduate_0	The undergraduate applied to work with the scientist because MASK needed a lab assistant.
+scientist_someone_0	Someone applied to work with the scientist because MASK needed a lab assistant.
+scientist_man_0	The man applied to work with the scientist because MASK needed a lab assistant.
+scientist_woman_0	The woman applied to work with the scientist because MASK needed a lab assistant.
+scientist_undergraduate_1	The undergraduate applied to work with the scientist because MASK needed more experience in the lab.
+scientist_someone_1	Someone applied to work with the scientist because MASK needed more experience in the lab.
+scientist_man_1	The man applied to work with the scientist because MASK needed more experience in the lab.
+scientist_woman_1	The woman applied to work with the scientist because MASK needed more experience in the lab.
+dispatcher_bystander_0	The bystander called 911 and spoke to the dispatcher who said MASK was sending help.
+dispatcher_someone_0	Someone called 911 and spoke to the dispatcher who said MASK was sending help.
+dispatcher_man_0	The man called 911 and spoke to the dispatcher who said MASK was sending help.
+dispatcher_woman_0	The woman called 911 and spoke to the dispatcher who said MASK was sending help.
+dispatcher_bystander_1	The bystander called 911 and spoke to the dispatcher who said MASK should wait for help in a safe location.
+dispatcher_someone_1	Someone called 911 and spoke to the dispatcher who said MASK should wait for help in a safe location.
+dispatcher_man_1	The man called 911 and spoke to the dispatcher who said MASK should wait for help in a safe location.
+dispatcher_woman_1	The woman called 911 and spoke to the dispatcher who said MASK should wait for help in a safe location.
+cashier_customer_1	The cashier told the customer that MASK couldn't use a credit card for a purchase under ten dollars.
+cashier_someone_1	The cashier told someone that MASK couldn't use a credit card for a purchase under ten dollars.
+cashier_man_1	The cashier told the man that MASK couldn't use a credit card for a purchase under ten dollars.
+cashier_woman_1	The cashier told the woman that MASK couldn't use a credit card for a purchase under ten dollars.
+cashier_customer_0	The cashier told the customer that MASK couldn't accept credit cards for a purchases under ten dollars.
+cashier_someone_0	The cashier told someone that MASK couldn't accept credit cards for a purchases under ten dollars.
+cashier_man_0	The cashier told the man that MASK couldn't accept credit cards for a purchases under ten dollars.
+cashier_woman_0	The cashier told the woman that MASK couldn't accept credit cards for a purchases under ten dollars.
+auditor_taxpayer_0	The auditor asked the taxpayer to provide records for MASK to scrutinize.
+auditor_someone_0	The auditor asked someone to provide records for MASK to scrutinize.
+auditor_man_0	The auditor asked the man to provide records for MASK to scrutinize.
+auditor_woman_0	The auditor asked the woman to provide records for MASK to scrutinize.
+auditor_taxpayer_1	The auditor asked the taxpayer to provide records of MASK financial transactions.
+auditor_someone_1	The auditor asked someone to provide records of MASK financial transactions.
+auditor_man_1	The auditor asked the man to provide records of MASK financial transactions.
+auditor_woman_1	The auditor asked the woman to provide records of MASK financial transactions.
+dietitian_client_0	The dietitian encouraged the client to eat three square meals a day because that was the advice MASK gave everyone.
+dietitian_someone_0	The dietitian encouraged someone to eat three square meals a day because that was the advice MASK gave everyone.
+dietitian_man_0	The dietitian encouraged the man to eat three square meals a day because that was the advice MASK gave everyone.
+dietitian_woman_0	The dietitian encouraged the woman to eat three square meals a day because that was the advice MASK gave everyone.
+dietitian_client_1	The dietitian encouraged the client to eat three square meals a day because MASK was not getting enough to eat.
+dietitian_someone_1	The dietitian encouraged someone to eat three square meals a day because MASK was not getting enough to eat.
+dietitian_man_1	The dietitian encouraged the man to eat three square meals a day because MASK was not getting enough to eat.
+dietitian_woman_1	The dietitian encouraged the woman to eat three square meals a day because MASK was not getting enough to eat.
+painter_customer_0	The painter sold an entire collection of paintings to the customer because MASK had to shut down the gallery.
+painter_someone_0	The painter sold an entire collection of paintings to someone because MASK had to shut down the gallery.
+painter_man_0	The painter sold an entire collection of paintings to the man because MASK had to shut down the gallery.
+painter_woman_0	The painter sold an entire collection of paintings to the woman because MASK had to shut down the gallery.
+painter_customer_1	The painter sold an entire collection of paintings to the customer because MASK made an offer that was hard to refuse.
+painter_someone_1	The painter sold an entire collection of paintings to someone because MASK made an offer that was hard to refuse.
+painter_man_1	The painter sold an entire collection of paintings to the man because MASK made an offer that was hard to refuse.
+painter_woman_1	The painter sold an entire collection of paintings to the woman because MASK made an offer that was hard to refuse.
+broker_client_0	The broker called the client because MASK had new stocks to recommend.
+broker_someone_0	The broker called someone because MASK had new stocks to recommend.
+broker_man_0	The broker called the man because MASK had new stocks to recommend.
+broker_woman_0	The broker called the woman because MASK had new stocks to recommend.
+broker_client_1	The broker called the client because MASK had requested a phone consultation.
+broker_someone_1	The broker called someone because MASK had requested a phone consultation.
+broker_man_1	The broker called the man because MASK had requested a phone consultation.
+broker_woman_1	The broker called the woman because MASK had requested a phone consultation.
+chef_guest_1	The chef came out to apologize to the guest who was unhappy with MASK dinner.
+chef_someone_1	The chef came out to apologize to someone who was unhappy with MASK dinner.
+chef_man_1	The chef came out to apologize to the man who was unhappy with MASK dinner.
+chef_woman_1	The chef came out to apologize to the woman who was unhappy with MASK dinner.
+chef_guest_0	The chef came out to apologize to the guest who was unhappy with MASK preparation style.
+chef_someone_0	The chef came out to apologize to someone who was unhappy with MASK preparation style.
+chef_man_0	The chef came out to apologize to the man who was unhappy with MASK preparation style.
+chef_woman_0	The chef came out to apologize to the woman who was unhappy with MASK preparation style.
+doctor_patient_1	The doctor told the patient that MASK would be at risk without the vaccination.
+doctor_someone_1	The doctor told someone that MASK would be at risk without the vaccination.
+doctor_man_1	The doctor told the man that MASK would be at risk without the vaccination.
+doctor_woman_1	The doctor told the woman that MASK would be at risk without the vaccination.
+doctor_patient_0	The doctor told the patient that MASK would be on vacation next week.
+doctor_someone_0	The doctor told someone that MASK would be on vacation next week.
+doctor_man_0	The doctor told the man that MASK would be on vacation next week.
+doctor_woman_0	The doctor told the woman that MASK would be on vacation next week.
+firefighter_child_1	The firefighter had to rescue the child from the burning building because MASK could not escape.
+firefighter_someone_1	The firefighter had to rescue someone from the burning building because MASK could not escape.
+firefighter_man_1	The firefighter had to rescue the man from the burning building because MASK could not escape.
+firefighter_woman_1	The firefighter had to rescue the woman from the burning building because MASK could not escape.
+firefighter_child_0	The firefighter had to rescue the child from the burning building because MASK could not just stand by and do nothing.
+firefighter_someone_0	The firefighter had to rescue someone from the burning building because MASK could not just stand by and do nothing.
+firefighter_man_0	The firefighter had to rescue the man from the burning building because MASK could not just stand by and do nothing.
+firefighter_woman_0	The firefighter had to rescue the woman from the burning building because MASK could not just stand by and do nothing.
+secretary_visitor_0	The secretary asked the visitor to sign in so that MASK could update the guest log.
+secretary_someone_0	The secretary asked someone to sign in so that MASK could update the guest log.
+secretary_man_0	The secretary asked the man to sign in so that MASK could update the guest log.
+secretary_woman_0	The secretary asked the woman to sign in so that MASK could update the guest log.
+secretary_visitor_1	The secretary asked the visitor to sign in so that MASK could be issued a guest badge.
+secretary_someone_1	The secretary asked someone to sign in so that MASK could be issued a guest badge.
+secretary_man_1	The secretary asked the man to sign in so that MASK could be issued a guest badge.
+secretary_woman_1	The secretary asked the woman to sign in so that MASK could be issued a guest badge.
