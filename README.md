@@ -3,9 +3,9 @@
 ## Interact with open source demos!
 
 Note: If you would rather checkout running and flexible demos, to reproduce the methods and measurements in this paper, please see below, otherwise, skip to the `setup`.:
-- Spurious Correlations Open Source Hugging Face Space: https://huggingface.co/spaces/paper5186/spurious.
-- Uncertainty Measurement Open Source Hugging Face Space: https://huggingface.co/spaces/paper5186/uncertainty.
-- More General Setting Toy SCM: https://tinyurl.com/2ub4xyjs.
+- Spurious Correlations Open Source Hugging Face Space: https://huggingface.co/spaces/emilylearning/spurious_correlation_evaluation
+- Uncertainty Measurement Open Source Hugging Face Space: https://huggingface.co/spaces/emilylearning/llm_uncertainty
+- More General Setting Toy SCM: : https://tinyurl.com/4mdm4uxx.
 
 # Setup
 ```
