@@ -1,19 +1,20 @@
 # Reproducing Selection Induced Collider Bias in LLMs: A Gender Pronoun Uncertainty Case Study
 
-## Interact with open source demos!
+Follow steps below to reproduce all data and plots in [*Selection Induced Collider Bias: A Gender Pronoun Uncertainty Case Study*](https://arxiv.org/abs/2210.00131).
 
-Note: If you would rather checkout running and flexible demos, to reproduce the methods and measurements in this paper, please see below, otherwise, skip to the `setup`.:
+## Interact with open source demos instead!
+
+If you would rather checkout currently running and more flexible demos, you can also reproduce the methods and measurements in this paper by checking out the open-source demos below, otherwise, skip to the `Setup`:
 - Spurious Correlations Open Source Hugging Face Space: https://huggingface.co/spaces/emilylearning/spurious_correlation_evaluation
 - Uncertainty Measurement Open Source Hugging Face Space: https://huggingface.co/spaces/emilylearning/llm_uncertainty
-- More General Setting Toy SCM: : https://tinyurl.com/4mdm4uxx.
+- More General Setting Toy SCM Colab: https://tinyurl.com/4mdm4uxx.
 
 # Setup
 ```
-git clone https://github.com/anon-anon-anony/sicb_paper.git
-cd sicb_paper
+git clone https://github.com/2dot71mily/selection_induced_collider_bias.git
+cd selection_induced_collider_bias
 python3 -m venv ~/venv_sicb
 source ~/venv_sicb/bin/activate
-pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
@@ -22,7 +23,9 @@ pip install -r requirements.txt
 ## Spurious plots
 In `config.py`:
 ```
-UNCERTAINTY = True # Set to False if replicating the Spurious results
+UNCERTAINTY = False  # Set to False if replicating the Spurious results
+...
+INDIE_VAR_FOR_SPURIOUS = 0  # Select '0' to use "date", '1' to use "place" for Spurious
 ```
 Then run in terminal:
 `python spurious_plotting.py`
@@ -47,12 +50,11 @@ Saved plots to plots/spurious_plots/delta_fit_stats_plotfp_wikibio_roberta-large
 ## Uncertainty plots
 In `config.py`:
 ```
-UNCERTAINTY = False # Set to False if replicating the Spurious results
-TESTING = False # Set to True if testing on subsets of the challenge sets
+UNCERTAINTY = True  # Set to False if replicating the Spurious results
 ```
 
 Then run in terminal:
-`python inference.py`
+`python uncertainty_plotting.py`
 
 You should see a printout of some uncertainty metrics, TP and TN rates, and file save updates print out before successful completion, e.g.:
 
@@ -85,9 +87,9 @@ Note: The LLM weights will be downloaded / cached from Hugging Face. Throughout,
 ### Spurious data
 In `config.py`:
 ```
-UNCERTAINTY = False # Set to False if replicating the Spurious results
-TESTING = True # Set to True if testing on subsets of the challenge sets
-INDIE_VAR_FOR_SPURIOUS = 1  # Select '0' to use "date", '1' to use "place" for Spurious
+UNCERTAINTY = False  # Set to False if replicating the Spurious results
+TESTING = True  # Set to True if testing on subsets of the challenge sets
+INDIE_VAR_FOR_SPURIOUS = 0  # Select '0' to use "date", '1' to use "place" for Spurious
 ```
 Then run in terminal:
 `python inference.py`
@@ -132,9 +134,9 @@ In 1904: The doctor told the woman that <mask> would be on vacation next week
 ### Spurious data (can take ~30 minutes)
 In `config.py`:
 ```
-UNCERTAINTY = False # Set to False if replicating the Spurious results
-TESTING = False # Set to True if testing on subsets of the challenge sets
-INDIE_VAR_FOR_SPURIOUS = 1  # Select '0' to use "date", '1' to use "place" for Spurious
+UNCERTAINTY = False  # Set to False if replicating the Spurious results
+TESTING = False  # Set to True if testing on subsets of the challenge sets
+INDIE_VAR_FOR_SPURIOUS = 0  # Select '0' to use "date", '1' to use "place" for Spurious
 ```
 
 Then run in terminal:
