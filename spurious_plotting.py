@@ -239,7 +239,7 @@ axe.tick_params(axis="x", labelrotation=LABEL_ROTATION)
 
 handles, labels = axe.get_legend_handles_labels()
 fig.legend(handles, labels) # TODO Add loc, bbox_to_anchor
-# fig.tight_layout(rect=?)
+fig.tight_layout()
 # fig.subplots_adjust(top=?)
 
 file_path = os.path.join(PLOTS_FULL_PATH, f"final_fig_{DATASET_STYLE}_{INDIE_VAR_NAME}_{test_version}")
