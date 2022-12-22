@@ -68,10 +68,10 @@ SENTENCE_TEMPLATES_FILE = "all_sentences_test.tsv" if TESTING else "all_sentence
 
 ###################### Add more models here ######################
 BERT_LIKE_MODELS_DICT = {
-    # "bert-base-uncased": "BERT base",
-    # "bert-large-uncased": "BERT large",
-    # "roberta-base": "RoBERTa base",
-    # "roberta-large": "RoBERTa large",
+    "bert-base-uncased": "BERT base",
+    "bert-large-uncased": "BERT large",
+    "roberta-base": "RoBERTa base",
+    "roberta-large": "RoBERTa large",
     "olm_olm-roberta-base-oct-2022": "OLM RoBERTa base",  # HF model query will replace "_" with "/".
 }
 BERT_LIKE_MODELS = list(BERT_LIKE_MODELS_DICT.keys())

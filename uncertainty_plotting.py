@@ -58,7 +58,7 @@ def get_df_per_model_from_all_files_in_dir(inference_path, indie_vars=None):
 
     for f in files:
 
-        prog = re.compile(r".*(.)p_wikibio_([\w-]+)_(\w+)___(\w+)_(\w+)_([01])")
+        prog = re.compile(r".*(.)p_wikibio_([\w-]+)_(\w+)__(\w+)_(\w+)_([01])")
         m = prog.match(f.stem)
         try:
             (
