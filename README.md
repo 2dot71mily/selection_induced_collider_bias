@@ -13,8 +13,8 @@ If you would rather checkout currently running and more flexible demos, you can 
 ```
 git clone https://github.com/2dot71mily/selection_induced_collider_bias.git
 cd selection_induced_collider_bias
-python3 -m venv ~/venv_sicb
-source ~/venv_sicb/bin/activate
+python3 -m venv venv_sicb
+source venv_sicb/bin/activate
 pip install -r requirements.txt
 ```
 

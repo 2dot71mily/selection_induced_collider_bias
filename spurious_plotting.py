@@ -150,8 +150,10 @@ def plot_slope_and_r(
     plt.figure(figsize=figsize)
     named_stats = named_f_stats - named_m_stats
     named_stats.plot(kind="bar", color=["blue", "skyblue"], figsize=figsize)
+
     plt.title(title)
     plt.ylabel(y_label)
+    plt.tight_layout()
     if no_legend:
         plt.legend("", frameon=False)
     else:
@@ -168,9 +170,9 @@ iclr_v2_width = 6
 legend_labels = LEGEND_LABELS
 test_version = f"__normFalse"  # TODO: Move to config.py
 
-fig, ax = plt.subplots(2, iclr_v2_fig_cols, sharex=True)
+fig, ax = plt.subplots(2, iclr_v2_fig_cols+1, sharex=True)
 fig.set_figheight(iclr_v2_height)
-fig.set_figwidth(iclr_v2_width)
+fig.set_figwidth(iclr_v2_width*2)
 fig.suptitle("Predicted Pronoun vs Year", fontsize=16)
 y_label = Y_LABEL
 
@@ -234,9 +236,36 @@ fit_stats.extend(
 )
 axe.tick_params(axis="x", labelrotation=LABEL_ROTATION)
 
-print(pd.concat(fit_stats))
+
+
+
+axe = ax[0][2]
+title = "Pre-trained OLM-RoBERTa base"
+filenames = [
+    f"fp_{DATASET_STYLE}_olm_olm-roberta-base-oct-2022_{INDIE_VAR_NAME}_{test_version}.csv",
+    f"mp_{DATASET_STYLE}_olm_olm-roberta-base-oct-2022_{INDIE_VAR_NAME}_{test_version}.csv",
+]
+fit_stats.extend(
+    process_results_from_csvs(
+        filenames, y_label, legend_labels, title, axe, INDIE_VAR_NAME
+    )
+)
+
+axe = ax[1][2]
+title = "Pre-trained OLM-RoBERTa base"
+filenames = [
+    f"fp_{DATASET_STYLE}_olm_olm-roberta-base-oct-2022_{INDIE_VAR_NAME}_{test_version}.csv",
+    f"mp_{DATASET_STYLE}_olm_olm-roberta-base-oct-2022_{INDIE_VAR_NAME}_{test_version}.csv",
+]
+fit_stats.extend(
+    process_results_from_csvs(
+        filenames, y_label, legend_labels, title, axe, INDIE_VAR_NAME
+    )
+)
 axe.tick_params(axis="x", labelrotation=LABEL_ROTATION)
 
+
+print(pd.concat(fit_stats))
 handles, labels = axe.get_legend_handles_labels()
 fig.legend(handles, labels) # TODO Add loc, bbox_to_anchor
 fig.tight_layout()
@@ -251,7 +280,7 @@ plot_slope_and_r(
     fit_stats,
     BERT_LIKE_MODELS_DICT,
     INDIE_VAR_NAME,
-    (iclr_v2_width, iclr_v2_height/3),
+    (iclr_v2_width, iclr_v2_height),
     DATASET_STYLE,
     filenames,
 )

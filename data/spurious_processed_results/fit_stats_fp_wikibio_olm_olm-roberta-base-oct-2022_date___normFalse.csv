@@ -1,0 +1,13 @@
+,slope,r
+fp_wikibio_bert-base-uncased_date___normFalse.csv,0.394,0.915
+mp_wikibio_bert-base-uncased_date___normFalse.csv,-0.174,-0.68
+fp_wikibio_bert-large-uncased_date___normFalse.csv,0.19,0.796
+mp_wikibio_bert-large-uncased_date___normFalse.csv,-0.104,-0.674
+fp_wikibio_roberta-base_date___normFalse.csv,0.257,0.881
+mp_wikibio_roberta-base_date___normFalse.csv,-0.213,-0.727
+fp_wikibio_roberta-large_date___normFalse.csv,0.193,0.86
+mp_wikibio_roberta-large_date___normFalse.csv,-0.032,-0.283
+fp_wikibio_olm_olm-roberta-base-oct-2022_date___normFalse.csv,0.083,0.629
+mp_wikibio_olm_olm-roberta-base-oct-2022_date___normFalse.csv,-0.179,-0.782
+fp_wikibio_olm_olm-roberta-base-oct-2022_date___normFalse.csv,0.083,0.629
+mp_wikibio_olm_olm-roberta-base-oct-2022_date___normFalse.csv,-0.179,-0.782

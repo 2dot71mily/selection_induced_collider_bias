@@ -6,7 +6,7 @@ from pathlib import Path
 ############ Uncertainty or spurious! ###############
 UNCERTAINTY = False # Set to False if replicating the Spurious results  # TODO add asserts
 TESTING = True # Set to True if testing on subsets of the challenge sets
-INDIE_VAR_FOR_SPURIOUS = 1  # Select '0' to use "date", '1' to use "place" for Spurious
+INDIE_VAR_FOR_SPURIOUS = 0  # Select '0' to use "date", '1' to use "place" for Spurious
 VERY_VERBOSE = False
 
 INDIE_VAR_NAMES = ["date", "place"]
@@ -72,6 +72,7 @@ BERT_LIKE_MODELS_DICT = {
     "bert-large-uncased": "BERT large",
     "roberta-base": "RoBERTa base",
     "roberta-large": "RoBERTa large",
+    "olm_olm-roberta-base-oct-2022": "OLM RoBERTa base",  # HF model query will replace "_" with "/".
 }
 BERT_LIKE_MODELS = list(BERT_LIKE_MODELS_DICT.keys())
 
